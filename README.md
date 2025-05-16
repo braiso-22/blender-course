@@ -13,3 +13,6 @@
 ![image](https://github.com/user-attachments/assets/8e1a17d4-9969-4344-ab20-d287395fc66c)
 ![image](https://github.com/user-attachments/assets/0e593a87-f553-47e5-8da6-dca748982803)
 
+# Day 2 - 16-05-2025
+
+- Sushi table
