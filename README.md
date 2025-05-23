@@ -13,8 +13,10 @@
 ![image](https://github.com/user-attachments/assets/8e1a17d4-9969-4344-ab20-d287395fc66c)
 ![image](https://github.com/user-attachments/assets/0e593a87-f553-47e5-8da6-dca748982803)
 
-# Day 2 - 16-05-2025
+## Day 2 - 16-05-2025
 
 - Sushi table
 
 ## Day 3 23-05-2025
+- bottle and nigiri
+![image](https://github.com/user-attachments/assets/dfe8e857-1661-4838-84de-59c8ab4dd500)
