@@ -16,6 +16,8 @@
 ## Day 2 - 16-05-2025
 
 - Sushi table
+![image](https://github.com/user-attachments/assets/2d5f638b-a38f-4902-a58e-6f5488727e58)
+
 
 ## Day 3 23-05-2025
 - bottle and nigiri
