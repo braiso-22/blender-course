@@ -23,3 +23,5 @@
 - bottle and nigiri
 ![image](https://github.com/user-attachments/assets/3439a067-7eda-47cc-9743-b2f5e0f9f898)
 
+## Day 4 30-05-2025
+- Render, lights and color
