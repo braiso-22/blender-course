@@ -25,3 +25,4 @@
 
 ## Day 4 30-05-2025
 - Render, lights and color
+![image](./render1.png)
