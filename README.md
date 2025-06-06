@@ -27,3 +27,7 @@
 - Render, lights and color
 ![image](./render1.png)
 ![shading-image](./shading.png)
+
+## Day 5 06-06-2025
+
+- Animation in blender
