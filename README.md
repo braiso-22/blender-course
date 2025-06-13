@@ -31,3 +31,6 @@
 ## Day 5 06-06-2025
 
 - Animation in blender
+
+https://github.com/user-attachments/assets/af813752-4a12-45ab-8eaa-b6181441db02
+
