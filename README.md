@@ -39,3 +39,6 @@ https://github.com/user-attachments/assets/af813752-4a12-45ab-8eaa-b6181441db02
 - Animation following a path
 - Modeling with a reference image
 
+## Day 7 20-06-2025(Last day)
+
+- Modeling with a reference image 2
