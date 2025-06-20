@@ -42,3 +42,6 @@ https://github.com/user-attachments/assets/af813752-4a12-45ab-8eaa-b6181441db02
 ## Day 7 20-06-2025(Last day)
 
 - Modeling with a reference image 2
+
+![image](https://github.com/user-attachments/assets/b00683a7-3844-452e-bb17-f433638941ad)
+
